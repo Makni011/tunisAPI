@@ -12,6 +12,12 @@
     "image": "https://raw.githubusercontent.com/Makni011/tunisAPI/main/images/Ariana.jpg"
   },
   {
+    "id": "ben-arous",
+    "name": "Ben Arous",
+    "description": "Ben Arous, located just south of the capital, is a gateway to Tunisia's industrial and residential development, offering visitors a glimpse into modern Tunisian life with its commercial centers and proximity to the international airport.",
+    "image": "https://raw.githubusercontent.com/Makni011/tunisAPI/main/images/BenArous.jpg"
+  },
+  {
     "id": "bizerte",
     "name": "Bizerte",
     "description": "Bizerte, Tunisia's northernmost city, is a picturesque port town known for its charming blue and white architecture, historic Kasbah, and scenic location where the Mediterranean Sea meets a natural lagoon.",
@@ -54,6 +60,12 @@
     "image": "https://raw.githubusercontent.com/Makni011/tunisAPI/main/images/Kebili.jpg"
   },
   {
+    "id": "le-kef",
+    "name": "Le Kef",
+    "description": "Le Kef, perched on a plateau in northwestern Tunisia, is a historic town with a dramatic Casbah fortress, panoramic views, and a rich Ottoman heritage, making it a unique destination for history and culture enthusiasts.",
+    "image": "https://raw.githubusercontent.com/Makni011/tunisAPI/main/images/LeKef.jpg"
+  },
+  {
     "id": "mahdia",
     "name": "Mahdia",
     "description": "Mahdia, a coastal gem on the Mediterranean, enchants visitors with its fortified old town on a peninsula, beautiful beaches, and the historic Ribat, offering a perfect blend of relaxation and historical exploration.",
@@ -88,6 +100,12 @@
     "name": "Sfax",
     "description": "Sfax, Tunisia's second-largest city, impresses tourists with its massive and well-preserved medina (a UNESCO World Heritage candidate), its bustling fishing port, and its distinctive blue-painted doors in the old town.",
     "image": "https://raw.githubusercontent.com/Makni011/tunisAPI/main/images/Sfax.jpg"
+  },
+  {
+    "id": "sidi-bouzid",
+    "name": "Sidi Bouzid",
+    "description": "Sidi Bouzid, a city in central Tunisia, is historically significant as the birthplace of the Jasmine Revolution, and offers visitors a look at inland agricultural life and its important role in modern Tunisian history.",
+    "image": "https://raw.githubusercontent.com/Makni011/tunisAPI/main/images/SidiBouzid.jpg"
   },
   {
     "id": "siliana",
