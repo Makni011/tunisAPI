@@ -1,0 +1,146 @@
+[
+  {
+    "id": "tunis",
+    "name": "Tunis",
+    "description": "Tunis, the vibrant capital of Tunisia, offers visitors a captivating blend of ancient history and modern culture, with its UNESCO-listed Medina, bustling souks, and the iconic Zitouna Mosque standing as testaments to centuries of rich heritage.",
+    "image": "https://raw.githubusercontent.com/Makni011/tunisAPI/main/images/Tunis.jpg"
+  },
+  {
+    "id": "ariana",
+    "name": "Ariana",
+    "description": "Ariana, a modern suburb of Tunis, charms tourists with its beautiful parks, the impressive Ribat of Ariana, and its role as a cultural hub featuring art galleries and the Tunisian Academy of Sciences.",
+    "image": "https://raw.githubusercontent.com/Makni011/tunisAPI/main/images/Ariana.jpg"
+  },
+  {
+    "id": "ben-arous",
+    "name": "Ben Arous",
+    "description": "Ben Arous, located just south of the capital, is a gateway to Tunisia's industrial and residential development, offering visitors a glimpse into modern Tunisian life with its commercial centers and proximity to the international airport.",
+    "image": "https://raw.githubusercontent.com/Makni011/tunisAPI/main/images/BenArous.jpg"
+  },
+  {
+    "id": "bizerte",
+    "name": "Bizerte",
+    "description": "Bizerte, Tunisia's northernmost city, is a picturesque port town known for its charming blue and white architecture, historic Kasbah, and scenic location where the Mediterranean Sea meets a natural lagoon.",
+    "image": "https://raw.githubusercontent.com/Makni011/tunisAPI/main/images/Bizerte.jpg"
+  },
+  {
+    "id": "gabes",
+    "name": "Gabes",
+    "description": "Gabes, a unique coastal oasis, is a fascinating destination where the Sahara Desert meets the sea, offering tourists a chance to explore its historic medina, vibrant fishing port, and the nearby Chott el Jerid salt lake.",
+    "image": "https://raw.githubusercontent.com/Makni011/tunisAPI/main/images/Gabes.jpg"
+  },
+  {
+    "id": "gafsa",
+    "name": "Gafsa",
+    "description": "Gafsa, an ancient city in west-central Tunisia, invites tourists to discover its Roman ruins of Capsa, natural thermal springs, and dramatic desert landscapes that have been inhabited since prehistoric times.",
+    "image": "https://raw.githubusercontent.com/Makni011/tunisAPI/main/images/Gafsa.jpg"
+  },
+  {
+    "id": "jendouba",
+    "name": "Jendouba",
+    "description": "Jendouba, nestled in Tunisia's green north, is a haven for nature lovers, featuring lush forests, the scenic Ichkeul National Park (a UNESCO site), and traditional villages that showcase authentic Berber culture.",
+    "image": "https://raw.githubusercontent.com/Makni011/tunisAPI/main/images/Jendouba.jpg"
+  },
+  {
+    "id": "kairouan",
+    "name": "Kairouan",
+    "description": "Kairouan, one of Islam's four holy cities, is a profound spiritual and historical destination, home to the magnificent Great Mosque, the Aghlabid Basins, and centuries of Islamic scholarship recognized by UNESCO World Heritage status.",
+    "image": "https://raw.githubusercontent.com/Makni011/tunisAPI/main/images/Kairouan.jpg"
+  },
+  {
+    "id": "kasserine",
+    "name": "Kasserine",
+    "description": "Kasserine, located in central Tunisia, offers tourists a journey through diverse landscapes from mountains to desert, with the ancient Roman city of Sbeitla's well-preserved ruins being a major archaeological highlight.",
+    "image": "https://raw.githubusercontent.com/Makni011/tunisAPI/main/images/Kasserine.jpg"
+  },
+  {
+    "id": "kebili",
+    "name": "Kebili",
+    "description": "Kebili, a true Saharan oasis, is a magical tourist destination famous for its vast date palm groves, traditional ksar fortresses, and its role as a gateway to the stunning dunes of the Grand Erg Oriental desert.",
+    "image": "https://raw.githubusercontent.com/Makni011/tunisAPI/main/images/Kebili.jpg"
+  },
+  {
+    "id": "le-kef",
+    "name": "Le Kef",
+    "description": "Le Kef, perched on a plateau in northwestern Tunisia, is a historic town with a dramatic Casbah fortress, panoramic views, and a rich Ottoman heritage, making it a unique destination for history and culture enthusiasts.",
+    "image": "https://raw.githubusercontent.com/Makni011/tunisAPI/main/images/LeKef.jpg"
+  },
+  {
+    "id": "mahdia",
+    "name": "Mahdia",
+    "description": "Mahdia, a coastal gem on the Mediterranean, enchants visitors with its fortified old town on a peninsula, beautiful beaches, and the historic Ribat, offering a perfect blend of relaxation and historical exploration.",
+    "image": "https://raw.githubusercontent.com/Makni011/tunisAPI/main/images/Mahdia.jpg"
+  },
+  {
+    "id": "manouba",
+    "name": "Manouba",
+    "description": "Manouba, a growing governorate west of Tunis, is an emerging destination for those interested in modern Tunisian development, with its expanding university city and proximity to the capital's cultural offerings.",
+    "image": "https://raw.githubusercontent.com/Makni011/tunisAPI/main/images/Manouba.jpg"
+  },
+  {
+    "id": "medenine",
+    "name": "Medenine",
+    "description": "Medenine, in southeastern Tunisia, is a captivating destination for its unique troglodyte dwellings of Matmata, ancient Libyan-Punic tombs, and its strategic location near the border with Libya.",
+    "image": "https://raw.githubusercontent.com/Makni011/tunisAPI/main/images/Medenine.jpg"
+  },
+  {
+    "id": "monastir",
+    "name": "Monastir",
+    "description": "Monastir, a popular seaside resort, is renowned for its well-preserved Ribat fortress, the mausoleum of former President Bourguiba, and its beautiful beaches, making it a top choice for sun and history seekers.",
+    "image": "https://raw.githubusercontent.com/Makni011/tunisAPI/main/images/Monastir.jpg"
+  },
+  {
+    "id": "nabeul",
+    "name": "Nabeul",
+    "description": "Nabeul, the heart of Tunisia's pottery industry, is a delightful coastal town famous for its vibrant souks filled with ceramics, its beautiful beaches, and its role as a gateway to the scenic Cap Bon peninsula.",
+    "image": "https://raw.githubusercontent.com/Makni011/tunisAPI/main/images/Nabeul.jpg"
+  },
+  {
+    "id": "sfax",
+    "name": "Sfax",
+    "description": "Sfax, Tunisia's second-largest city, impresses tourists with its massive and well-preserved medina (a UNESCO World Heritage candidate), its bustling fishing port, and its distinctive blue-painted doors in the old town.",
+    "image": "https://raw.githubusercontent.com/Makni011/tunisAPI/main/images/Sfax.jpg"
+  },
+  {
+    "id": "sidi-bouzid",
+    "name": "Sidi Bouzid",
+    "description": "Sidi Bouzid, a city in central Tunisia, is historically significant as the birthplace of the Jasmine Revolution, and offers visitors a look at inland agricultural life and its important role in modern Tunisian history.",
+    "image": "https://raw.githubusercontent.com/Makni011/tunisAPI/main/images/SidiBouzid.jpg"
+  },
+  {
+    "id": "siliana",
+    "name": "Siliana",
+    "description": "Siliana, located in northwestern Tunisia, is a region of natural beauty with its forested hills and the Ichkeul National Park, providing a peaceful retreat for tourists seeking tranquility and scenic landscapes.",
+    "image": "https://raw.githubusercontent.com/Makni011/tunisAPI/main/images/Siliana.jpg"
+  },
+  {
+    "id": "sousse",
+    "name": "Sousse",
+    "description": "Sousse, a major tourist hub on the eastern coast, boasts a magnificent UNESCO-listed Medina, a historic Ribat, and long sandy beaches, perfectly blending ancient heritage with modern resort amenities.",
+    "image": "https://raw.githubusercontent.com/Makni011/tunisAPI/main/images/Sousse.jpg"
+  },
+  {
+    "id": "tataouine",
+    "name": "Tataouine",
+    "description": "Tataouine, in southern Tunisia, is world-famous for its unique underground troglodyte homes and its role as a filming location for the Star Wars saga, offering an unforgettable desert adventure.",
+    "image": "https://raw.githubusercontent.com/Makni011/tunisAPI/main/images/Tataouine.jpg"
+  },
+  {
+    "id": "tozeur",
+    "name": "Tozeur",
+    "description": "Tozeur, an enchanting oasis town in the Sahara, captivates visitors with its stunning red architecture, vast date palm plantations, and its proximity to the otherworldly Chott el Jerid salt lake.",
+    "image": "https://raw.githubusercontent.com/Makni011/tunisAPI/main/images/Tozeur.jpg"
+  },
+  {
+    "id": "zaghouan",
+    "name": "Zaghouan",
+    "description": "Zaghouan, a mountainous governorate, is a refreshing escape with its Roman-era aqueducts, the sacred Zaghouan Mountain, and lush landscapes that offer hiking and a cooler climate compared to the rest of Tunisia.",
+    "image": "https://raw.githubusercontent.com/Makni011/tunisAPI/main/images/Zaghouan.jpg"
+  },
+  {
+    "id": "beja",
+    "name": "Beja",
+    "description": "Beja, a city in northwestern Tunisia, welcomes tourists with its historic Kasbah, ancient Roman ruins, and its surrounding fertile plains, providing a glimpse into a less-visited but historically rich part of the country.",
+    "image": "https://raw.githubusercontent.com/Makni011/tunisAPI/main/images/Beja.jpg"
+  }
+]
